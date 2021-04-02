@@ -18,4 +18,8 @@ path = "src/false.rs"
 name = "sleep"
 path = "src/sleep.rs"
 
+[[bin]]
+name = "echo"
+path = "src/echo.rs"
+
 [dependencies]
