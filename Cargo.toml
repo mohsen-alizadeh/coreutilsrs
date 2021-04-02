@@ -14,4 +14,8 @@ path = "src/true.rs"
 name = "false"
 path = "src/false.rs"
 
+[[bin]]
+name = "sleep"
+path = "src/sleep.rs"
+
 [dependencies]
