@@ -10,4 +10,8 @@ edition = "2018"
 name = "true"
 path = "src/true.rs"
 
+[[bin]]
+name = "false"
+path = "src/false.rs"
+
 [dependencies]
